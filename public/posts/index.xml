@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marc-Antoine Dion</title>
-    <link>https://www.marcantoinedion.com/</link>
-    <description>Recent content on Marc-Antoine Dion</description>
+    <title>Posts on Marc-Antoine Dion</title>
+    <link>https://www.marcantoinedion.com/posts/</link>
+    <description>Recent content in Posts on Marc-Antoine Dion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Mar 2019 17:16:09 -0500</lastBuildDate>
     
-	<atom:link href="https://www.marcantoinedion.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.marcantoinedion.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
