@@ -1,4 +1,4 @@
-baseURL = "http://blog.maddev.com/"
+baseURL = "https://blog.marcantoinedion.com/"
 languageCode = "en-us"
 title = "MAD Dev"
 theme = "hugo-paper"
