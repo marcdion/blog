@@ -1,4 +1,4 @@
-baseURL = "http://www.marcantoinedion.com/"
+baseURL = "https://www.marcantoinedion.com/"
 languageCode = "en-us"
 title = "Marc-Antoine Dion"
 theme = "hugo-paper"
